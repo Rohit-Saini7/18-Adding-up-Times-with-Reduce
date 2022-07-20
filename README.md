@@ -1,12 +1,10 @@
 # 18-Adding-up-Times-with-Reduce
 
-# 17-Sort-Without-Articles
-
 Date: July 20, 2022
 
 # Eighteenth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/17-Sort-Without-Articles/).
+This challange uses Array.prototype.reduce to calculate total time for all videos combined. To experience on your own visit [here](https://rohit-saini7.github.io/17-Sort-Without-Articles/).
 
 ## What is JavaScript 30
 
@@ -20,4 +18,4 @@ Learn more about the course in [here](https://javascript30.com/).
 
 ## Background
 
-Image by []() on []()
+Image by [Lucía Garó](https://unsplash.com/@luciagaro) on [Unsplash](https://unsplash.com/s/photos/cd-player)
